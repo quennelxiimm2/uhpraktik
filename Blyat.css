@@ -1,0 +1,148 @@
+body {
+    font-family: "Arial";
+    background-color: #b3cde0;
+}
+li{
+    list-style: none;
+    
+}
+.header1{
+    background-color: #011f4b;
+    color: #fff;
+    height: 50px;
+	border-radius: 20px;
+}
+.header2{
+    background-color: #03396c;
+    margin-top: 20px;
+    height:85px;
+    padding: 10px 10px;
+}
+.Container a {
+  float: left;
+  background-color: #011f4b;
+  color: white;
+  text-align: center;
+  padding: 12px;
+  font-size: 18px; 
+  line-height: 20px;
+  border-radius: 20px;
+  margin-right:20px;
+  border: 5px solid #005b96;
+  text-align: middle;
+  margin-left: 80px;
+}
+
+.Container a:hover {
+  background-color: #005073;  
+}
+
+.logo1 img{
+    float:left;
+    border:5px solid #005b96;
+    border-radius:10px;
+    width:80px;
+    height:80px;
+    
+
+}
+.logo2{
+  float: right;
+  font-size: 30px;
+  padding: 20px 40px;
+ color:rgb(240, 240, 240);
+ background-color:#d9534f;
+ border:3px solid #005b96;
+ border-radius: 10px;
+}
+
+.copy-container{
+  background-color: white;
+  
+}
+.img-container{
+	background-color: white;
+	text-align: center;
+}
+
+.header-01{
+background-color: white;
+padding-left : 20px;
+padding-top: 5px;
+}
+
+.contents{
+  height: 150px;
+ margin-top: 20px;
+ background-color : white ;
+}
+.contents p{
+  text-align: center;
+  font-size: 14px;
+}
+.contents h3{
+  padding-left: 10px;
+}
+.contents2{
+  margin-top: 20px;
+ background-color : white ;
+ height:650px;
+ padding: 15px 15px;
+}
+.contents2 h3{
+  color:red;
+}
+.contents-item{
+ float:left;
+ padding-left: 90px;
+ text-align: center;
+ 
+}
+  
+
+.contents-item2{
+  float: left;
+  margin-right: 100px;
+}
+.contents-item2 p{
+  text-align: center;
+  border:2px solid blue;
+border-radius:25px;
+background-color:#d9534f;
+}
+
+.contents-item2 p:hover{
+background-color:#5bc0de;
+}
+
+
+.section-title{
+  background-color:rgb(255, 255, 255);
+  padding-top: 275px;
+}
+
+.footer {
+background-color: 	#03396c;
+height: 100px;
+color: #fff;
+ padding: 40px;
+  }
+  
+  .footer-logo {
+    font-size: 60px;
+    float: left;
+  }
+  
+  .footer-list {
+    float: right;
+  }
+  
+  .footer-list2 {
+    text-align: center;
+    color:gold;
+    font-size: 20px;
+  }
+  
+  .footer-list li { 
+    padding-bottom: 20px; 
+  }
